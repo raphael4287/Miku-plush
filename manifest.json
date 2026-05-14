@@ -1,0 +1,9 @@
+{
+  "name": "Miku_Plush",
+  "description": "more miku plushes more love more fun",
+  "version_number": "2.0.2",
+  "dependencies": [
+    "Zehs-REPOLib-3.0.4"
+  ],
+  "website_url": ""
+}
